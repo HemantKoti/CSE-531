@@ -1,0 +1,13 @@
+## Ignore temporary files and build results
+
+# Desktop ini files
+.*ini
+
+# Project files
+*.project
+
+# Object files
+*.obj
+
+# Executable files 
+*.exe
