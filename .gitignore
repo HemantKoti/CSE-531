@@ -1,7 +1,7 @@
 ## Ignore temporary files and build results
 
 # Desktop ini files
-.*ini
+*.ini
 
 # Project files
 *.project
